@@ -1,0 +1,12 @@
+;Value
+Element;Slab
+Concrete;B60
+Type_Concrete;heavy
+Humidity;40-75
+gb_3;1
+Poisson_ratio;0.25
+Rebars;A500
+Tendons;A600
+Duration;short
+Limits_state;1_st
+Accuracy;0.0000001
