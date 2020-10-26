@@ -6,7 +6,7 @@ import numpy as np
 import csv
 
 # %%
-tree = etree.parse('ConcretesSP63.xml')
+tree = etree.parse('BetonSelector.xml')
 
 types = tree.findall('Type')
 groups = []
