@@ -6,7 +6,6 @@ from PyQt5.QtGui import QPixmap
 import numpy as np
 import matplotlib.tri as tri
 
-
 # %%Function of generator
 def rectf(H, B, nbi, ns, a, ds):
     path = "Rectangle.csv"
